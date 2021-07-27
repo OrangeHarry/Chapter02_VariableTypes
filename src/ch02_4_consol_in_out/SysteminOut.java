@@ -61,7 +61,7 @@ public class SysteminOut {
 				break;
 			}
 		}
-		System.out.println("종료되었습니다");
+		System.out.println("//////종료되었습니다");
 
 		scanner.close(); // 다끝나면 리소스까지 해제해주는 메소드 .close();
 	}
